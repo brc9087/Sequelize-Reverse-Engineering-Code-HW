@@ -1,9 +1,9 @@
 ## Sequelize Reverse Engineering Code 
 --
 ## Overview and Purpose
-When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
-This tutorial is a walkthrough for developers to assist in understanding the code. 
-This code uses npm modules ‘express’, ‘passport’, ‘fs’, ‘path’ to help users create an account, login into that account and logout storing all data in a mysql database. 
+- When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
+- This tutorial is a walkthrough for developers to assist in understanding the code. 
+- This code uses npm modules ‘express’, ‘passport’, ‘fs’, ‘path’ to help users create an account, login into that account and logout storing all data in a mysql database. 
 --
 ## User Story 
 As a developer I want a walk-through of the codebase so that I can use it as a starting point for a new project. 
@@ -21,6 +21,9 @@ Go to the browser and type in `http://localhost:8080/` as web address.
 Enjoy! 
 
 ![loginpage](./Develop/public/images/loginPage.JPG)
+
 --
+
 ![loggedInpage](./Develop/public/images/LoggedIn.JPG)
+
 --
