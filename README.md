@@ -21,7 +21,19 @@ Enjoy!
 ![loginpage](./Develop/public/images/loginPage.JPG)
 --
 ![loggedInpage](./Develop/public/images/LoggedIn.JPG)
+
+## Technologies Used 
 --
+1. express
+2. sequelize
+3. passport 
+4. fs
+5. path
+6. npm install
+7. mysql 
+8. CSS
+9. HTML 
+10. bcrypt js 
 
 ## Links 
 - Github Link - https://github.com/brc9087/Sequelize-Reverse-Engineering-Code-HW
