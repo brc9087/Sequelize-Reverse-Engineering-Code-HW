@@ -1,5 +1,5 @@
 ## Sequelize Reverse Engineering Code 
---
+
 ## Overview and Purpose
 - When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
 - This tutorial is a walkthrough for developers to assist in understanding the code. 
@@ -7,8 +7,6 @@
 --
 ## User Story 
 As a developer I want a walk-through of the codebase so that I can use it as a starting point for a new project. 
-
-https://docs.google.com/document/d/1WTL10BBOkSUXAfVhq9GN-zgSNTghbuQMID6HTNCNEMg/edit#heading=h.w1c2fnpsy83e
 
 --
 ## Step by Steps Code Guide 
@@ -21,9 +19,11 @@ Go to the browser and type in `http://localhost:8080/` as web address.
 Enjoy! 
 
 ![loginpage](./Develop/public/images/loginPage.JPG)
-
 --
-
 ![loggedInpage](./Develop/public/images/LoggedIn.JPG)
-
 --
+
+## Links 
+Github Link - https://github.com/brc9087/Sequelize-Reverse-Engineering-Code-HW
+GoogleDoc Link - https://docs.google.com/document/d/1WTL10BBOkSUXAfVhq9GN-zgSNTghbuQMID6HTNCNEMg/edit?usp=sharing
+
