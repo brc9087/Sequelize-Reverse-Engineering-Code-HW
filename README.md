@@ -20,7 +20,7 @@ https://docs.google.com/document/d/1WTL10BBOkSUXAfVhq9GN-zgSNTghbuQMID6HTNCNEMg/
 Go to the browser and type in `http://localhost:8080/` as web address. 
 Enjoy! 
 
-![loginpage](./images/public/loginPage.JPG)
+![loginpage](./public/images/loginPage.JPG)
 --
-![loggedInpage](./images/public/loginPage.JPG)
+![loggedInpage](./public/images/LoggedIn.JPG)
 --
