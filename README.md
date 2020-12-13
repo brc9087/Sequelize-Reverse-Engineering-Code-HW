@@ -1,4 +1,4 @@
-## Sequelize Reverse Engineering Code 
+# Sequelize Reverse Engineering Code 
 
 ## Overview and Purpose
 - When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
@@ -24,6 +24,6 @@ Enjoy!
 --
 
 ## Links 
-Github Link - https://github.com/brc9087/Sequelize-Reverse-Engineering-Code-HW
-GoogleDoc Link - https://docs.google.com/document/d/1WTL10BBOkSUXAfVhq9GN-zgSNTghbuQMID6HTNCNEMg/edit?usp=sharing
+- Github Link - https://github.com/brc9087/Sequelize-Reverse-Engineering-Code-HW
+- GoogleDoc Link - https://docs.google.com/document/d/1WTL10BBOkSUXAfVhq9GN-zgSNTghbuQMID6HTNCNEMg/edit?usp=sharing
 
